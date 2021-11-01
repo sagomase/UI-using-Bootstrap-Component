@@ -1,0 +1,212 @@
+/* nav start */
+.navset{
+    color:white;
+    height: 90px;
+}
+.opencartlogo{
+    height: 36px;
+    
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #212529;
+    font-size: 14px;
+}
+.dropdown-item {
+    color: #6c757d;
+    font-size: 14px;
+    font-weight: 300;
+    padding: 0.5rem 1.5rem;
+}
+.logbtn{
+    padding: 6px 16px;
+    color: black;
+    border:none;
+    background-color: transparent;
+    box-shadow: none;
+    font-size: 14px;
+   
+}
+/* .logbtn:hover{
+    padding: 6px 16px;
+    background-color: transparent;
+    border-color: tomato;
+    color: green;
+} */
+.regbtn{
+   
+    background-color: transparent;
+    border-color: #000;
+    color: #000; 
+    margin-right: 0px;
+    font-size: 14px;
+}
+.regbtn:hover{
+    background-color: black;
+    color: white;
+}
+/* nav end */
+#firstbg{
+    background-color: #0080c3;
+    position: relative;
+    overflow: visible;
+}
+
+.container .row h1{
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
+.jumbotron-fluid .container .row p{
+    font-size: 24px;
+    font-weight: 300;
+    color: white;
+    margin-top: 5px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.container .row .btn-xl{
+    padding: 5px 40px;
+    font-size: 18px;
+    line-height: 1.3334;
+    border-radius: 4px;
+    min-width: 120px;
+    margin: 10px 10px;
+
+}
+.container .row .btn-success{
+    color: #fff;
+    background-color: #7ac438;
+    border-color: #7ac438;
+}
+.container .row .btn-white{
+    color: #fff;
+    background-color: transparent;
+    border-color: #fff;
+}
+#simple{
+    text-align: center;
+}
+#simple img{
+    width: 50%;
+    margin-left: 60px;
+}
+
+.cardcolor{
+    color: black;
+}
+
+#bgcolor{
+    margin: 20px 0px;
+    background-color: rgb(46, 44, 44);
+}
+#bgcolor h1, p{
+    color: white;
+    text-align: center;
+}
+ul{
+    
+    text-align: center;
+}
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+#marketplace{
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+#marketplace p{
+    color: black;
+    text-align: left;
+}
+ #marketplace .row div:first-child {
+    padding-top: 90px;
+}
+#marketplace img{
+    margin: 0px auto;
+}
+.img-responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+#payment h1{
+    text-align: center;
+    font-weight: 400;
+    font-size: 40px;
+}
+#payment p{
+    color: black;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+#support{
+    text-align: center;
+}
+#support h1{
+    text-align: center;
+    font-weight: 600;
+    font-size: 30px;
+}
+#support h2{
+    text-align: center;
+    font-weight: 600;
+    font-size: 20px;
+}
+#support p{
+    color: black;
+}
+#support img{
+    text-align: center;
+    width: 40%;
+    margin-top: 40px;
+}
+#featured{
+    background-color: rgb(228, 228, 228);
+
+}
+#featured h2{
+    font-size: 20px;
+    margin-left: 20px;
+    padding: 20px;
+}
+}
+#featured img{
+    width: 80%;
+}
+#featured ul{
+    text-align: center;
+    padding: 20px;
+}
+#featured ul li{
+    display: inline-block;
+    padding: 0px 10px;
+    
+}
+.footer-section{
+    background-color: black;
+    color: blanchedalmond;
+    padding-top: 20px;
+}
+.footer-section ul{
+    padding: 0px;
+    text-align: left;
+    font-size: 15px;
+}
+/* .footer-section ul li{
+    padding: 0px;
+    text-align: left;
+    font-size: 15px;
+} */
+.footer-section p{
+    text-align:center;
+}
+.footer-section input[type=email]{
+    width: 120%;
+}
+
+
+
+
